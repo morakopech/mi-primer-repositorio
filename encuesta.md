@@ -1,0 +1,1 @@
+Mi expectativa de la materia es, ademas de aprobarla, aprender mas acerca de la programacion orientada a objetos utilizando Python
